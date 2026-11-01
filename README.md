@@ -63,6 +63,6 @@ Participo do desenvolvimento de uma solução interna relacionada aos processos 
 
 ## Contato
 
-Para acompanhar meu trabalho e trocar experiências sobre tecnologia, acesse meu <a href="https://github.com/naskjz">perfil do GitHub</a>.
+<a href="mailto:luandossantosribeiro916@gmail.com">E-mail profissional</a> · <a href="https://www.linkedin.com/in/luan-dos-santos-577922396/">LinkedIn</a>
 
 <p><sub>Londrina, Paraná · Em evolução contínua na área de tecnologia</sub></p>
