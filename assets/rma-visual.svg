@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="340" viewBox="0 0 1080 340" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustração conceitual de uma aplicação e uma base de dados</title>
+  <desc id="desc">Um painel de sistema conectado a um ícone de base de dados, sem representar a arquitetura real do projeto.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101c2e"/>
+      <stop offset="1" stop-color="#0b1320"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f6feb"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#1f6feb" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#1f6feb" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="8" y="8" width="1064" height="324" rx="20" fill="#080d16" stroke="#26374d"/>
+  <ellipse cx="826" cy="166" rx="210" ry="156" fill="url(#halo)"/>
+  <text x="42" y="54" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.6" fill="#79c0ff">PROJETO PROFISSIONAL</text>
+  <text x="42" y="96" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#f0f6fc">Sistema interno de RMA e pós-venda</text>
+  <text x="42" y="124" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#aab7c7">Multcabos · em desenvolvimento</text>
+  <g transform="translate(48 158)">
+    <rect width="334" height="114" rx="12" fill="url(#surface)" stroke="#335578"/>
+    <rect x="1" y="1" width="332" height="24" rx="11" fill="#14243a"/>
+    <circle cx="17" cy="13" r="3" fill="#58a6ff"/>
+    <rect x="30" y="10" width="110" height="6" rx="3" fill="#304a68"/>
+    <rect x="20" y="42" width="76" height="54" rx="7" fill="#12243a" stroke="#264b72"/>
+    <rect x="110" y="42" width="76" height="54" rx="7" fill="#12243a" stroke="#264b72"/>
+    <rect x="200" y="42" width="114" height="20" rx="6" fill="#132d4d"/>
+    <rect x="200" y="72" width="92" height="7" rx="3.5" fill="#27496d"/>
+    <rect x="200" y="88" width="72" height="7" rx="3.5" fill="#27496d"/>
+    <path d="M30 57h35M30 68h48M120 57h35M120 68h45" stroke="#58a6ff" stroke-opacity=".55" stroke-width="3" stroke-linecap="round"/>
+    <text x="102" y="135" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" fill="#c9d1d9">Aplicação interna</text>
+  </g>
+  <path d="M406 214h82" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <path d="m476 203 12 11-12 11" fill="none" stroke="#58a6ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g transform="translate(534 154)">
+    <path d="M54 15c0-11 45-11 45 0v82c0 11-45 11-45 0z" fill="#0e2238" stroke="#58a6ff" stroke-width="2"/>
+    <ellipse cx="76.5" cy="15" rx="22.5" ry="8" fill="#193b61" stroke="#79c0ff" stroke-width="2"/>
+    <path d="M54 41c0 11 45 11 45 0M54 68c0 11 45 11 45 0" fill="none" stroke="#58a6ff" stroke-opacity=".78" stroke-width="2"/>
+    <text x="77" y="135" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="600" fill="#c9d1d9">Base de dados</text>
+  </g>
+  <g transform="translate(682 178)">
+    <rect width="342" height="82" rx="12" fill="#0e1725" stroke="#26374d"/>
+    <rect x="19" y="21" width="3" height="40" rx="1.5" fill="url(#accent)"/>
+    <text x="36" y="40" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600" fill="#dbeafe">Representação conceitual</text>
+    <text x="36" y="61" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#8b949e">Não descreve a arquitetura real do sistema.</text>
+  </g>
+  <text x="42" y="308" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#8b949e">Projeto interno · código-fonte e detalhes operacionais não publicados</text>
+</svg>
