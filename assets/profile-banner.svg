@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Luan — desenvolvimento de software</title>
+  <desc id="desc">Banner escuro com detalhes azuis e uma composição gráfica inspirada em código e tecnologia.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b14"/>
+      <stop offset="0.58" stop-color="#0b1526"/>
+      <stop offset="1" stop-color="#08101b"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f6feb"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#1f6feb" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#1f6feb" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#7fb3ff" stroke-opacity=".065" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <ellipse cx="1000" cy="158" rx="310" ry="220" fill="url(#glow)"/>
+  <path d="M760 0v320M792 0v320" stroke="#58a6ff" stroke-opacity=".08"/>
+  <path d="M0 280H1200" stroke="#58a6ff" stroke-opacity=".12"/>
+  <g fill="none" stroke="#58a6ff" stroke-opacity=".34" stroke-width="1.5">
+    <path d="M758 56h78v32h52"/>
+    <path d="M792 112h74v28h40"/>
+    <path d="M784 224h84v-28h76"/>
+    <path d="M935 46v24h32"/>
+    <path d="M1000 276v-30h45"/>
+  </g>
+  <g fill="#58a6ff">
+    <circle cx="888" cy="88" r="3"/><circle cx="906" cy="140" r="3"/>
+    <circle cx="944" cy="196" r="3"/><circle cx="967" cy="70" r="3"/>
+    <circle cx="1045" cy="246" r="3"/>
+  </g>
+  <g transform="translate(850 72)">
+    <rect width="278" height="176" rx="14" fill="#0d1727" stroke="#264c77"/>
+    <rect x="1" y="1" width="276" height="34" rx="13" fill="#111f33"/>
+    <circle cx="19" cy="18" r="4" fill="#f85149" opacity=".8"/>
+    <circle cx="34" cy="18" r="4" fill="#d29922" opacity=".85"/>
+    <circle cx="49" cy="18" r="4" fill="#3fb950" opacity=".82"/>
+    <text x="20" y="67" font-family="Consolas,monospace" font-size="12" fill="#79c0ff">&lt;dev&gt;</text>
+    <text x="34" y="93" font-family="Consolas,monospace" font-size="12" fill="#c9d1d9">learn();</text>
+    <text x="34" y="119" font-family="Consolas,monospace" font-size="12" fill="#a5d6ff">build();</text>
+    <text x="34" y="145" font-family="Consolas,monospace" font-size="12" fill="#c9d1d9">repeat();</text>
+    <text x="20" y="162" font-family="Consolas,monospace" font-size="12" fill="#79c0ff">&lt;/dev&gt;</text>
+    <rect x="198" y="59" width="48" height="7" rx="3.5" fill="#1f6feb"/>
+    <rect x="198" y="84" width="61" height="7" rx="3.5" fill="#58a6ff" opacity=".74"/>
+    <rect x="198" y="109" width="39" height="7" rx="3.5" fill="#79c0ff" opacity=".52"/>
+    <rect x="198" y="134" width="55" height="7" rx="3.5" fill="#1f6feb" opacity=".67"/>
+  </g>
+  <rect x="62" y="55" width="4" height="211" rx="2" fill="url(#blue)"/>
+  <text x="91" y="83" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3.6" fill="#79c0ff">DESENVOLVIMENTO DE SOFTWARE</text>
+  <text x="88" y="160" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700" letter-spacing="-1.5" fill="#f0f6fc">Luan</text>
+  <text x="91" y="198" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="500" fill="#c9d1d9">Estudante de ADS · Estagiário em tecnologia</text>
+  <text x="91" y="232" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#8b949e">Universidade Positivo · 2º semestre</text>
+  <rect x="91" y="254" width="197" height="3" rx="1.5" fill="url(#blue)"/>
+</svg>
