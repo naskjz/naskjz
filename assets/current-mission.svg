@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="185" viewBox="0 0 1200 185" role="img" aria-labelledby="title desc">
+<title id="title">Current Mission — foco atual</title><desc id="desc">Objetivos atuais: evolução nos estudos de programação, projetos práticos, aprimoramento Full Stack, aprendizado de novas tecnologias e evolução profissional.</desc>
+<rect x="1" y="1" width="1198" height="183" rx="12" fill="#11151c" stroke="#343a44" stroke-width="2"/>
+<text x="25" y="37" font-family="Consolas,monospace" font-size="12" letter-spacing="1.8" fill="#c084fc">CURRENT MISSION · FOCUS</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#e4d9ef">
+<rect x="24" y="58" width="552" height="42" rx="7" fill="#171321" stroke="#47365b"/><text x="42" y="85" fill="#c084fc">›</text><text x="62" y="85">Evolução nos estudos de programação</text>
+<rect x="596" y="58" width="580" height="42" rx="7" fill="#171321" stroke="#47365b"/><text x="614" y="85" fill="#c084fc">›</text><text x="634" y="85">Desenvolvimento de projetos práticos</text>
+<rect x="24" y="116" width="360" height="42" rx="7" fill="#171321" stroke="#47365b"/><text x="42" y="143" fill="#c084fc">›</text><text x="62" y="143">Aprimoramento em Full Stack</text>
+<rect x="400" y="116" width="360" height="42" rx="7" fill="#171321" stroke="#47365b"/><text x="418" y="143" fill="#c084fc">›</text><text x="438" y="143">Aprendizado de novas tecnologias</text>
+<rect x="776" y="116" width="400" height="42" rx="7" fill="#171321" stroke="#47365b"/><text x="794" y="143" fill="#c084fc">›</text><text x="814" y="143">Evolução profissional em software</text>
+</g></svg>
