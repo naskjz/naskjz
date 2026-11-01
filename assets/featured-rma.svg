@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="490" viewBox="0 0 1200 490" role="img" aria-labelledby="title desc">
+<title id="title">RMA Multcabos — Enterprise RMA &amp; After-Sales Platform</title>
+<desc id="desc">Card de projeto empresarial privado, em desenvolvimento, com participação Full Stack colaborativa, nova arquitetura em Python, FastAPI e PostgreSQL, versão anterior em PHP e MariaDB ou MySQL, e integração com a API do Mercado Livre.</desc>
+<defs><linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#191323"/><stop offset="1" stop-color="#11171f"/></linearGradient><linearGradient id="edge" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b879f4"/><stop offset="1" stop-color="#45d2e5"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="488" rx="14" fill="url(#surface)" stroke="#5b4473" stroke-width="2"/>
+<rect x="2" y="2" width="7" height="486" rx="3" fill="url(#edge)"/>
+<text x="38" y="45" font-family="Consolas,monospace" font-size="12" letter-spacing="2" fill="#c084fc">FEATURED PROJECT · EMPRESARIAL</text>
+<rect x="938" y="22" width="220" height="30" rx="15" fill="#13271d" stroke="#28583e"/>
+<text x="1048" y="42" text-anchor="middle" font-family="Consolas,monospace" font-size="11" font-weight="700" fill="#86efac">PRIVATE PROJECT</text>
+<rect x="37" y="68" width="63" height="58" rx="11" fill="#281b3a" stroke="#70509a"/>
+<text x="68" y="104" text-anchor="middle" font-family="Consolas,monospace" font-size="15" font-weight="700" fill="#e5c9ff">RMA</text>
+<text x="119" y="96" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" fill="#f4f1fa">RMA Multcabos</text>
+<text x="119" y="121" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#cbbadd">Enterprise RMA &amp; After-Sales Platform</text>
+<rect x="38" y="149" width="255" height="31" rx="6" fill="#171321" stroke="#47365b"/>
+<circle cx="56" cy="164" r="5" fill="#e3b341"/>
+<text x="70" y="169" font-family="Consolas,monospace" font-size="12" font-weight="700" fill="#f0d693">STATUS · EM DESENVOLVIMENTO</text>
+<text x="38" y="215" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#d9d5e1">Sistema empresarial interno para centralizar processos de RMA, garantias,</text>
+<text x="38" y="241" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#d9d5e1">devoluções e pós-venda.</text>
+<text x="38" y="281" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#67e8f9">NOVA ARQUITETURA</text>
+<rect x="38" y="295" width="130" height="36" rx="7" fill="#1b1924" stroke="#454052"/><text x="103" y="318" text-anchor="middle" font-family="Consolas,monospace" font-size="14" fill="#f0eafa">Python</text>
+<rect x="178" y="295" width="130" height="36" rx="7" fill="#1b1924" stroke="#454052"/><text x="243" y="318" text-anchor="middle" font-family="Consolas,monospace" font-size="14" fill="#f0eafa">FastAPI</text>
+<rect x="318" y="295" width="160" height="36" rx="7" fill="#1b1924" stroke="#454052"/><text x="398" y="318" text-anchor="middle" font-family="Consolas,monospace" font-size="14" fill="#f0eafa">PostgreSQL</text>
+<text x="38" y="365" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#aeb9c8">VERSÃO ANTERIOR / LEGADO</text>
+<rect x="268" y="343" width="96" height="34" rx="7" fill="#17191f" stroke="#41404d"/><text x="316" y="365" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#c9d1d9">PHP</text>
+<rect x="373" y="343" width="167" height="34" rx="7" fill="#17191f" stroke="#41404d"/><text x="456" y="365" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#c9d1d9">MariaDB / MySQL</text>
+<text x="38" y="411" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" fill="#aeb9c8">INTEGRAÇÃO</text>
+<rect x="160" y="389" width="202" height="34" rx="7" fill="#17191f" stroke="#41404d"/><text x="261" y="411" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#c9d1d9">Mercado Livre API</text>
+<text x="38" y="454" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#d9d5e1">Minha participação: desenvolvimento Full Stack com outro estagiário.</text>
+<text x="38" y="476" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#9198a1">Projeto interno da empresa · sem demonstração, URL de acesso ou código público</text>
+<path d="M768 145v286" stroke="#40344f"/>
+<rect x="805" y="162" width="345" height="212" rx="12" fill="#0e1725" stroke="#344965"/>
+<rect x="806" y="163" width="343" height="34" rx="11" fill="#162239"/>
+<circle cx="826" cy="180" r="4" fill="#ff7b72"/><circle cx="841" cy="180" r="4" fill="#e3b341"/><circle cx="856" cy="180" r="4" fill="#3fb950"/>
+<text x="877" y="184" font-family="Consolas,monospace" font-size="11" fill="#aeb9c8">migration-flow</text>
+<rect x="832" y="222" width="128" height="80" rx="9" fill="#251a30" stroke="#654680"/>
+<text x="896" y="256" text-anchor="middle" font-family="Consolas,monospace" font-size="16" font-weight="700" fill="#d8b4fe">PHP</text>
+<text x="896" y="280" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#b8b1c4">versão anterior</text>
+<path d="M973 262h50" stroke="#67e8f9" stroke-width="3"/><path d="m1015 252 11 10-11 10" fill="none" stroke="#67e8f9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1041" y="222" width="87" height="80" rx="9" fill="#10242a" stroke="#36717a"/>
+<text x="1084" y="253" text-anchor="middle" font-family="Consolas,monospace" font-size="14" font-weight="700" fill="#a5f3fc">PY</text>
+<text x="1084" y="278" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="11" fill="#b9dfe3">nova versão</text>
+<text x="977" y="341" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#9198a1">modernização arquitetural</text>
+</svg>
