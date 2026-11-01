@@ -1,67 +1,77 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Luan — estudante de ADS e estagiário em tecnologia">
+  <img src="./assets/developer-core-banner.svg" width="100%" alt="LUAN RIBEIRO — DEVELOPER CORE. Banner com gradiente roxo e ciano e indicador SYSTEM ONLINE.">
 </div>
 
-<p align="center">
-  <strong>DESENVOLVIMENTO DE SOFTWARE · APRENDIZADO NA PRÁTICA</strong><br>
-  <sub>Universidade Positivo · Análise e Desenvolvimento de Sistemas · 2º semestre</sub>
-</p>
-
----
-
-## Sobre mim
-
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo e estagiário na área de tecnologia. Tenho interesse em desenvolvimento de software e programação, e estou construindo experiência profissional por meio de projetos práticos.
-
-## Tecnologias em estudo
-
-<table>
-  <tr>
-    <td align="center" width="160">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Logo Python"><br>
-      <strong>Python</strong><br>
-      <sub>Em estudo</sub>
-    </td>
-    <td align="center" width="160">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="Logo JavaScript"><br>
-      <strong>JavaScript</strong><br>
-      <sub>Em estudo</sub>
-    </td>
-    <td align="center" width="220">
-      <strong>IA</strong><br>
-      <sub>Área de interesse</sub>
-    </td>
-  </tr>
-</table>
-
-## Projeto em destaque
-
-**Sistema interno de RMA e pós-venda · Multcabos**  
-<sub>Projeto profissional em desenvolvimento</sub>
-
-Participo do desenvolvimento de uma solução interna relacionada aos processos de RMA e pós-venda.
-
-<div align="center">
-  <img src="./assets/rma-visual.svg" width="100%" alt="Ilustração conceitual de um sistema e uma base de dados">
-</div>
-
-<sub>A ilustração é conceitual. Este repositório não publica código-fonte nem detalhes internos da empresa.</sub>
-
-## GitHub Stats
+## ⌘ AI Terminal
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=naskjz&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark_dimmed&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Estatísticas públicas do GitHub de Luan">
-  </a>
+  <img src="./assets/boot-terminal.svg" width="100%" alt="Terminal luan@dev:~$ com inicialização: Developer Loaded, Environment Ready, Profile Initialized, Projects Loaded e System Online.">
 </p>
+
+## ▣ About Me
+
+```javascript
+const developer = {
+  name: "Luan dos Santos Ribeiro",
+  education: "ADS · Universidade Positivo · 2º semestre",
+  role: "Software Developer | ADS Student",
+  experience: "Estagiário em tecnologia",
+  interests: ["Desenvolvimento de software", "Full Stack"],
+  focus: "Aprendizado contínuo com projetos práticos"
+};
+```
+
+## ▣ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=naskjz&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&currStreakNum=F0F6FC&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Contribuições e sequência de atividade de naskjz">
-  </a>
+  <img src="./assets/featured-rma.svg" width="100%" alt="RMA Multcabos — Enterprise RMA & After-Sales Platform. PRIVATE PROJECT, em desenvolvimento. Projeto interno para RMA, garantias, devoluções e pós-venda. Minha participação Full Stack em colaboração com outro estagiário. Nova arquitetura em Python, FastAPI e PostgreSQL; versão anterior em PHP e MariaDB/MySQL; integração com Mercado Livre API. Sem demonstração pública, URL de acesso ou código público.">
 </p>
 
-## Contato
+## ϟ Tech Stack
+
+<p align="center">
+  <img src="./assets/tech-stack.svg" width="100%" alt="Tecnologias: JavaScript em estudo; Python e FastAPI no backend; PostgreSQL na nova versão; nenhuma ferramenta adicional confirmada. PHP e MariaDB/MySQL são somente do sistema legado.">
+</p>
+
+<sub>IA · área de interesse</sub>
+
+## ϟ Current Mission
+
+<p align="center">
+  <img src="./assets/current-mission.svg" width="100%" alt="Foco atual: evolução nos estudos de programação, desenvolvimento de projetos práticos, aprimoramento em Full Stack, aprendizado de novas tecnologias e evolução profissional em software.">
+</p>
+
+## ⌘ Developer Console
+
+```text
+luan@dev:~$ developer --summary
+developer     Luan Ribeiro (@naskjz)
+education     Análise e Desenvolvimento de Sistemas
+institution   Universidade Positivo · 2º semestre
+role          Estagiário na área de tecnologia
+mission       Construir experiência prática em desenvolvimento de software
+luan@dev:~$ _
+```
+
+## ▤ Skills
+
+| Categoria | Tecnologias / contexto confirmado |
+|:--|:--|
+| Front-end | JavaScript · em estudo |
+| Back-end | Python · FastAPI |
+| Database | PostgreSQL |
+| Legacy | PHP · MariaDB / MySQL · versão anterior do sistema |
+| DevOps / Tools | Não informado |
+
+## ▥ GitHub Analytics
+
+<p align="center">
+  <img src="./assets/github-analytics.svg" width="100%" alt="Dados consultados da conta GitHub naskjz em 1 de novembro de 2026: 1 repositório público; 5 commits localizados em naskjz/naskjz; linguagens e contribuições sem dados confirmados nesta consulta.">
+</p>
+
+<sub>O gráfico nativo de contribuições do GitHub aparece na página do perfil, fora do README. Os números acima são um snapshot e podem mudar.</sub>
+
+## ⌁ Contact
 
 <a href="mailto:luandossantosribeiro916@gmail.com">E-mail profissional</a> · <a href="https://www.linkedin.com/in/luan-dos-santos-577922396/">LinkedIn</a>
 
