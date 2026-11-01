@@ -66,10 +66,10 @@ luan@dev:~$ _
 ## ▥ GitHub Analytics
 
 <p align="center">
-  <img src="./assets/github-analytics.svg" width="100%" alt="Dados consultados da conta GitHub naskjz em 1 de novembro de 2026: 1 repositório público; 5 commits localizados em naskjz/naskjz; linguagens e contribuições sem dados confirmados nesta consulta.">
+  <img src="./assets/github-analytics.svg" width="100%" alt="Dados públicos de naskjz em 1 de novembro de 2026: 1 repositório público, 14 contribuições no último ano e 12 commits em naskjz/naskjz em 1 de novembro de 2026. Distribuição de linguagens não disponível.">
 </p>
 
-<sub>O gráfico nativo de contribuições do GitHub aparece na página do perfil, fora do README. Os números acima são um snapshot e podem mudar.</sub>
+<sub>Snapshot do perfil público consultado em 01/11/2026. A distribuição de linguagens não está disponível nos dados consultados.</sub>
 
 ## ⌁ Contact
 
