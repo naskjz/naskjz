@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+<title id="title">LUAN RIBEIRO — DEVELOPER CORE</title>
+<desc id="desc">Banner escuro com gradiente roxo e ciano, indicador de sistema online e identidade profissional de Luan Ribeiro.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#31175b"/><stop offset=".5" stop-color="#4f2686"/><stop offset="1" stop-color="#14576d"/></linearGradient>
+ <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#d8c2ff" stroke-opacity=".07"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="268" rx="12" fill="#0d1117" stroke="#59406f" stroke-width="2"/>
+<rect x="2" y="2" width="1196" height="266" rx="11" fill="url(#bg)"/>
+<rect x="2" y="2" width="1196" height="266" rx="11" fill="url(#grid)"/>
+<path d="M70 220H1130" stroke="#c9b1ea" stroke-opacity=".28"/>
+<rect x="80" y="36" width="14" height="14" rx="7" fill="#3fb950"/>
+<circle cx="87" cy="43" r="13" fill="none" stroke="#3fb950" stroke-opacity=".45"/>
+<text x="110" y="49" font-family="Consolas,monospace" font-size="14" font-weight="700" letter-spacing="2" fill="#d8ffe6">SYSTEM ONLINE</text>
+<text x="600" y="84" text-anchor="middle" font-family="Consolas,monospace" font-size="13" letter-spacing="2.3" fill="#eadbff">INITIALIZING DEVELOPER PROFILE · LUAN@DEV</text>
+<text x="600" y="153" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="55" font-weight="750" letter-spacing="1.5" fill="#ffffff">LUAN RIBEIRO</text>
+<text x="600" y="193" text-anchor="middle" font-family="Consolas,monospace" font-size="19" font-weight="600" letter-spacing="4" fill="#e8d4ff">DEVELOPER CORE</text>
+<text x="600" y="247" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#eee8f8">Software Developer · ADS Student</text>
+</svg>
