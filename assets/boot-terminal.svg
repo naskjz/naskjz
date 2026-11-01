@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="title desc">
+<title id="title">AI Terminal — luan@dev:~$</title>
+<desc id="desc">Terminal escuro com inicialização do perfil, ambiente, projetos e estado online.</desc>
+<rect x="1" y="1" width="998" height="238" rx="10" fill="#11151c" stroke="#3b4049" stroke-width="2"/>
+<path d="M2 39h996" stroke="#30363d"/>
+<circle cx="24" cy="21" r="6" fill="#ff7b72"/><circle cx="45" cy="21" r="6" fill="#e3b341"/><circle cx="66" cy="21" r="6" fill="#3fb950"/>
+<text x="90" y="26" font-family="Consolas,monospace" font-size="13" fill="#9198a1">developer-console</text>
+<text x="28" y="73" font-family="Consolas,monospace" font-size="17" fill="#d2a8ff">luan@dev:~$</text><text x="180" y="73" font-family="Consolas,monospace" font-size="17" fill="#e6edf3">initialize profile</text>
+<text x="28" y="106" font-family="Consolas,monospace" font-size="15" fill="#67e8f9">&gt;</text><text x="50" y="106" font-family="Consolas,monospace" font-size="15" fill="#c9d1d9">Developer Loaded</text>
+<text x="28" y="133" font-family="Consolas,monospace" font-size="15" fill="#67e8f9">&gt;</text><text x="50" y="133" font-family="Consolas,monospace" font-size="15" fill="#c9d1d9">Environment Ready</text>
+<text x="28" y="160" font-family="Consolas,monospace" font-size="15" fill="#67e8f9">&gt;</text><text x="50" y="160" font-family="Consolas,monospace" font-size="15" fill="#c9d1d9">Profile Initialized</text>
+<text x="28" y="187" font-family="Consolas,monospace" font-size="15" fill="#67e8f9">&gt;</text><text x="50" y="187" font-family="Consolas,monospace" font-size="15" fill="#c9d1d9">Projects Loaded</text>
+<text x="28" y="214" font-family="Consolas,monospace" font-size="15" fill="#67e8f9">&gt;</text><text x="50" y="214" font-family="Consolas,monospace" font-size="15" fill="#c9d1d9">System Online</text><text x="184" y="214" font-family="Consolas,monospace" font-size="15" fill="#3fb950">✓</text>
+</svg>
