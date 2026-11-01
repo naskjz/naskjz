@@ -66,7 +66,7 @@ luan@dev:~$ _
 ## ▥ GitHub Analytics
 
 <p align="center">
-  <img src="./assets/github-analytics-final.svg" width="100%" alt="Dados públicos de naskjz em 1 de novembro de 2026: 1 repositório público, 21 contribuições no último ano e 19 commits em naskjz/naskjz em 1 de novembro de 2026. Distribuição de linguagens não disponível.">
+  <img src="./assets/github-analytics-verified.svg" width="100%" alt="Dados públicos de naskjz em 1 de novembro de 2026: 1 repositório público, 19 contribuições no último ano e 17 commits em naskjz/naskjz em 1 de novembro de 2026. Distribuição de linguagens não disponível.">
 </p>
 
 <sub>Snapshot do perfil público consultado em 01/11/2026. A distribuição de linguagens não está disponível nos dados consultados.</sub>
