@@ -24,7 +24,7 @@ const developer = {
 ## ▣ Featured Projects
 
 <p align="center">
-  <img src="./assets/featured-rma.svg" width="100%" alt="RMA Multcabos — Enterprise RMA & After-Sales Platform. PRIVATE PROJECT, em desenvolvimento. Projeto interno para RMA, garantias, devoluções e pós-venda. Minha participação Full Stack em colaboração com outro estagiário. Nova arquitetura em Python, FastAPI e PostgreSQL; versão anterior em PHP e MariaDB/MySQL; integração com Mercado Livre API. Sem demonstração pública, URL de acesso ou código público.">
+  <img src="./assets/featured-rma-dashboard.jpg" width="100%" alt="RMA Multcabos — projeto privado em desenvolvimento. Captura sanitizada do dashboard real com números, registros, datas, conta e notificação interna ocultados. Sistema interno para RMA, garantias, devoluções e pós-venda. Participação Full Stack em colaboração com outro estagiário. Nova arquitetura em Python, FastAPI e PostgreSQL; versão anterior em PHP e MariaDB/MySQL; integração com Mercado Livre API.">
 </p>
 
 ## ϟ Tech Stack
